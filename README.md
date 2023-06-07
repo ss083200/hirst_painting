@@ -14,3 +14,5 @@ The draw_art() function controls the overall drawing process. It iterates a spec
 Finally, the program sets up the turtle screen and waits for a click to exit.
 
 By running this program, you can generate your own Hirst painting with colorful dots arranged in an aesthetically pleasing pattern.
+
+Hirst painting screenshot : https://drive.google.com/file/d/16s6OYmWbXbELvk8SoLa3Q0ksbjAWGJ-h/view?usp=drive_link
