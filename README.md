@@ -17,4 +17,3 @@ By running this program, you can generate your own Hirst painting with colorful 
 
 Hirst painting screenshot : https://drive.google.com/file/d/16s6OYmWbXbELvk8SoLa3Q0ksbjAWGJ-h/view?usp=drive_link
 
-Screenshot: ![Screenshot](ss083200/hirst_painting/spot_painting.jpg)
